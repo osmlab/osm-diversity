@@ -16,7 +16,7 @@ If you have a specific concern around diversity in OSM or want to talk about div
 
 We'd love to hear your feedback - OSM needs your voice. 
 
-If you want to be added as a collaborator in this project - which means you want to  write code - please add you github handle to [this ticket]().
+If you want to be added as a collaborator in this project - which means you want to  write code - please add you github handle to [this ticket](https://github.com/osmlab/osm-diversity/issues/1).
 
 If you find a bug or notice specific language in a project that is not as inclusive as it should be, please open a ticket in the [issue tracker](https://github.com/osmlab/osm-diversity/issues).
 
